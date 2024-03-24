@@ -1,3 +1,5 @@
 acsg.cloudflarest.link:8443
 acsg3.cloudflarest.link:8443
 cdn.didi8.com：8443
+achk.cloudflarest.link:8443
+achk2.cloudflarest.link:8443
